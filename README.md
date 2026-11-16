@@ -250,7 +250,7 @@ spec:
 ## Выполнение Задания 1. Настройка Service (ClusterIP и NodePort):
 1. Создать Deployment с двумя контейнерами.
 ```bash
-ubuntu@vm:~/Desktop/4-networks$ nano deployment-multi-container.yml
+root@ubuntu2204:~/Desktop/4-networks$ nano deployment-multi-container.yml
 ```
 ```yml
 apiVersion: apps/v1
